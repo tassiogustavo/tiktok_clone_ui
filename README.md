@@ -1,16 +1,18 @@
-# tiktok_style_scrooling
+# TikTok Clone - Dart + Flutter
+## 📷 Video do Projeto
 
-A new Flutter project.
+https://user-images.githubusercontent.com/70405308/212743019-0819b710-8515-44bc-b2d1-829cf9031143.mp4
 
-## Getting Started
+## 📝 Descrição do projeto
+Esse clone do TikTok foi feito em Dart + Flutter. Foi utilizado a biblioteca video_player para reprodução da prévia do filme. Para finalizar, todos os dados foram mockados dentro de classe interna.
 
-This project is a starting point for a Flutter application.
+## 🚀 Tecnologias e ferramentas utilizadas
+* Dart
+* Flutter
+* Player de Video
 
-A few resources to get you started if this is your first Flutter project:
+## 📌 Links
+* [video_player](https://pub.dev/packages/video_player)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📊 Status do projeto
+✅ Concluído
